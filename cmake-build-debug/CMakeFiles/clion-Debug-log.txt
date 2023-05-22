@@ -1,0 +1,4 @@
+/home/sophie/IDEs/CLion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/home/sophie/IDEs/CLion/bin/ninja/linux/x64/ninja -G Ninja -S "/home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network" -B "/home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network/cmake-build-debug"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network/cmake-build-debug

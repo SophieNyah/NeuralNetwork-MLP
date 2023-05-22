@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "XOR_Artificial_Neural_Network",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "XOR_Artificial_Neural_Network::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-XOR_Artificial_Neural_Network-Debug-3dcea006e369ae368781.json",
+					"name" : "XOR_Artificial_Neural_Network",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/sophie/faculdade/Intelig\u00eancia Artificial/XOR Artificial Neural Network/cmake-build-debug",
+		"source" : "/home/sophie/faculdade/Intelig\u00eancia Artificial/XOR Artificial Neural Network"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

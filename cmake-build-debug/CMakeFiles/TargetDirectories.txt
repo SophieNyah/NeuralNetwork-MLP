@@ -1,0 +1,3 @@
+/home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network/cmake-build-debug/CMakeFiles/XOR_Artificial_Neural_Network.dir
+/home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/sophie/faculdade/Inteligência Artificial/XOR Artificial Neural Network/cmake-build-debug/CMakeFiles/rebuild_cache.dir
